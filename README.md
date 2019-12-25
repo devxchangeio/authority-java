@@ -1,2 +1,2 @@
-# oauthceptors-java
-OAuthceptors Frameworks for Spring Projects
+# authority-java
+Authority Frameworks for Spring Projects
